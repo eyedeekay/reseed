@@ -1,2 +1,2 @@
 # reseed
-Stuff to help set up i2p reseed servers
+Stuff to help set up i2p reseed servers. Also a reseed-over-tor setup.
